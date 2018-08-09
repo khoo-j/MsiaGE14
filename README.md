@@ -1,5 +1,5 @@
 # Malaysian 14th general elections (2018)
-THIS IS A WORK IN PROGRESS: Analyzing Malaysia's 2018 General Elections data
+Analyzing Malaysia's 2018 General Elections data
 
 In May 2018, Malaysia underwent a change of government, with the opposition toppling the ruling incumbent.
 
